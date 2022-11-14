@@ -6,7 +6,7 @@
 
 ***Do view the ppt slides [React 360 and React VR.pptx](https://github.com/anutosh097/react-360-demo/files/9996310/React.360.and.React.VR.pptx)***
 
-***All about surge [https://surge.sh/help/getting-started-with-surge](https://surge.sh/help/getting-started-with-surge)
+***All about surge [https://surge.sh/help/getting-started-with-surge](https://surge.sh/help/getting-started-with-surge)***
 
 
 ***Do see the video and share your comments and reviews [https://youtu.be/jLjaYidZoso](https://youtu.be/jLjaYidZoso)***
